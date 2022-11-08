@@ -10,7 +10,7 @@ export function Navbar(props) {
              role="navigation">
             <div className={"flex justify-between items-center h-16 container"}>
                 <Link href="/">
-                    <p className="pl-8 hover:underline cursor-pointer">School traver</p>
+                    <p className="pl-8 hover:underline cursor-pointer">School travel</p>
                 </Link>
                 <div className="px-4 cursor-pointer md:hidden" onClick={props.toggle}>
                     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
