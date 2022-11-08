@@ -1,5 +1,5 @@
 # School travel
-Automatically calculate the ideal departure time to get to school on time. Itegrates with KU Leuvens calendar and NMBS API.
+Automatically calculate the ideal departure time to get to school on time. Integrates with KU Leuven calendar and NMBS API.
 
 ## Getting Started
 
